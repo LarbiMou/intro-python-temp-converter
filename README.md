@@ -1,0 +1,1 @@
+Simple Python project that converts temperatures from Fahrenheit to Celsius. Includes a reusable function and a user-interactive script, developed as part of Lab 1 for an introductory programming course.
